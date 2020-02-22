@@ -2,7 +2,7 @@ import bpy
 import random
 
 #Code created by Amir B Jahanbin
-#Visit http://jahanbin.net/ for more!
+#Visit http://jahanbin.net
 #Follow @abjahanbin
 
 #clear all 
