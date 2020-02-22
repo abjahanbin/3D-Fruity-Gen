@@ -233,7 +233,7 @@ elif rT < 4.5:
     bpy.ops.transform.rotate(value=spinY, orient_axis='Y')
     bpy.ops.transform.rotate(value=spinZ, orient_axis='Z')
 
-#spikey
+#Papaya
 elif rT < 5.5:
     
     #body
